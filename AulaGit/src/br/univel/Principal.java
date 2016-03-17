@@ -5,10 +5,10 @@ public class Principal {
 	public static void main(String[] args) {
 		
 		new Message().hello();
-		System.out.println("É nóis!");
+		System.out.println("BATATA!");
 
 		System.out.println("Hello World");
-		System.out.println("Are we!");
+		System.out.println("TESTE!");
 
 		
 	}
